@@ -5,7 +5,7 @@
     Declaration of POSIX directory browsing functions and types for Win32.
     Author:  Kevlin Henney (kevlin@acm.org, kevlin@curbralan.com)
     History: Created March 1997. Updated June 2003.
-    Rights:  See end of file.
+    Rights:  See end of file, do not change.
     
 */
 
